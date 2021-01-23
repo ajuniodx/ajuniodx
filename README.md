@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [![Behance Badge](https://img.shields.io/badge/-Behance-d83464?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/alexjuniofaa56)](https://www.behance.net/alexjuniofaa56)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dx-alexjunio)](https://www.linkedin.com/in/dx-alexjunio)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-e60023?style=flat-square&logo=Email&logoColor=white&link=mailto:alexjunioferreira17@gmail.com)](mailto:alexjunioferreira17@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Email-e60023?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexjunioferreira17@gmail.com)](mailto:alexjunioferreira17@gmail.com)
 
 
 
