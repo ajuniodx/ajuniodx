@@ -1,8 +1,6 @@
-### Hi there 👋
-
 <!--
 **ajuniodx/ajuniodx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Opa, sou Alex Junio! 💻
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ajuniodx)](https://github.com/ajuniodx)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dx-alexjunio)](https://www.linkedin.com/in/dx-alexjunio)
+
+
+### Quem Sou
+Meu nome é Alex Junio, tenho 22 Anos, Natural de Belo Horizonte - MG, sou amante e eterno estudante de tecnologia e Design.
+
+Formado em Designer Gráfico, estou a mais de 3 anos no mercado atuando  como web designer. Após uma oportunidade de participar de um projeto de aplicativo mobile, na qual desenvolvi toda parte visual e de experiência do usuário do aplicativo decidi migrar totalmente para área de UX/UI & Desenvolvimento de Software. Desde então venho dedicando e aprendendo mais sobre, Design  e Desenvolvimento de Software. 
+
+- [Website](https://alexjunior.dev.br/) 💻 - Working on it.
