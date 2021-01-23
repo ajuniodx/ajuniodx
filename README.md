@@ -11,11 +11,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ajuniodx)](https://github.com/ajuniodx)
 -->
 
-# Opa, sou Alex Junio! 💻
+# Opa, sou Alex Junio! 💻 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ajuniodx)](https://github.com/ajuniodx)
+[![Behance Badge](https://img.shields.io/badge/-Behance-000?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/alexjuniofaa56)](https://www.behance.net/alexjuniofaa56)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dx-alexjunio)](https://www.linkedin.com/in/dx-alexjunio)
 
 
