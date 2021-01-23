@@ -26,3 +26,5 @@ Meu nome é Alex Junio, tenho 22 Anos, Natural de Belo Horizonte - MG, sou amant
 Formado em Designer Gráfico, estou a mais de 3 anos no mercado atuando  como web designer. Após uma oportunidade de participar de um projeto de aplicativo mobile, na qual desenvolvi toda parte visual e de experiência do usuário do aplicativo decidi migrar totalmente para área de UX/UI & Desenvolvimento de Software. Desde então venho dedicando e aprendendo mais sobre, Design  e Desenvolvimento de Software. 
 
 - [Website](https://alexjunior.dev.br/) 💻 - Working on it.
+
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=ajuniodx&theme=blue-green)
