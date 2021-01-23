@@ -27,4 +27,4 @@ Formado em Designer Gráfico, estou a mais de 3 anos no mercado atuando  como we
 
 - [Website](https://alexjunior.dev.br/) 💻 - Working on it.
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=ajuniodx&theme=blue-green)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=ajuniodx&theme=blue-d83464)
