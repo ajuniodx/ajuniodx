@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 
 Formado em Designer Gráfico, estou a mais de 4 anos no mercado atuando com desenvolvimento de produtos digitais. Após uma oportunidade de participar de um projeto de aplicativo mobile, na qual desenvolvi toda parte visual e de experiência do usuário do aplicativo decidi migrar totalmente para área de UX/UI & Desenvolvimento de Software. Desde então venho dedicando e aprendendo mais sobre, Design e Desenvolvimento de Software. ⚡🚀🛠️
 
-- [Website](https://alexjunior.dev.br/) 💻 - Working on it.
+- [Website](https://althweb.tech/) 💻 - Working on it.
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=ajuniodx&theme=blue-d83464)
