@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 - 😄 I’m currently learning everything about Javascript for Web, Mobile and Desktop
 - 🤗 2022 Goals: Become expert in Javascript for Mobile
 
-[![Behance Badge](https://img.shields.io/badge/-Behance-d83464?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/alexjuniofaa56)](https://www.behance.net/alexjuniofaa56)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dx-alexjunio)](https://www.linkedin.com/in/dx-alexjunio)
-[![Gmail Badge](https://img.shields.io/badge/-Email-e60023?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexjunioferreira17@gmail.com)](mailto:alexjunioferreira17@gmail.com)
+### Connect with me:
+[<img align="left" alt="esdras-xavier | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Esdras Xavier | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+[instagram]: https://www.instagram.com/ajuniordx/
+[linkedin]: https://www.linkedin.com/in/ux-alexjunio
