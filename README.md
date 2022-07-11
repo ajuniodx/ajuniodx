@@ -1,8 +1,8 @@
 # Hi, I’m  Alex Junio! 👋
 
 - 🔭 I’m currently working for KaBuM!
-- 😄 I’m currently learning everything about Javascript for Web, Mobile and Desktop
-- 🤗 2022 Goals: Become expert in Javascript for Mobile
+- 😄 I'm currently studying Javascript and Kotlin focused on native and hybrid Android development
+- 🤗 2022 Goals: Publish a native and a hybrid app
 
 ### Connect with me:
 [<img align="left" alt="esdras-xavier | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
