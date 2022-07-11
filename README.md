@@ -1,7 +1,7 @@
 # Hi, I’m  Alex Junio! 👋
 
 - 🔭 I’m currently working for KaBuM!
-- 😄 I'm currently studying Javascript and Kotlin focused on native and hybrid Android development
+- 😄 I'm currently studying Javascript and Kotlin focused on native and hybrid development
 - 🤗 2022 Goals: Publish a native and a hybrid app
 
 ### Connect with me:
